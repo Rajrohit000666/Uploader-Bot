@@ -22,7 +22,7 @@ Telegram RoBot to Upload Links.
 
 **Heroku Buildpacks**
 ```
-https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
+https://github.com/Rajrohit000666/Uploader-Bot
 ```
 ```
 heroku/python
