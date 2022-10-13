@@ -1,6 +1,6 @@
 #### [UPLOADER-BOT](https://t.me/TechnicalCynite)
 
-[![Size](https://img.shields.io/github/repo-size/CyniteOfficial/Uploader-Bot?style=flat-square&color=green)](https://github.com/CyniteOfficial/Uploader-Bot)
+[![Size](https://img.shields.io/github/repo-size/CyniteOfficial/Uploader-Bot?style=flat-square&color=green)](https://github.com/Rajrohit000666/Uploader-Bot)
 
 ---
 
@@ -8,7 +8,7 @@ Telegram RoBot to Upload Links.
 
 **Features**:
 
-👉 Upload [yt-dlp Supported Links](https://ytdl-org.github.io/youtube-dl/supportedsites.html) to Telegram.
+👉 Upload [yt-dlp Supported Links](https://github.com/Rajrohit000666/Uploader-Bot) to Telegram.
 
 👉 Upload HTTP/HTTPS as File/Video to Telegram.
 
@@ -28,7 +28,7 @@ https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
 heroku/python
 ```
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/CyniteOfficial/Uploader-Bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/Rajrohit000666/Uploader-Bot)
 
 
 ## 🍃 How To Get Mongodb URI - [ Watch Video ](https://youtu.be/bk3cinuwEfo)
@@ -36,7 +36,7 @@ heroku/python
 
 ## 🚸 HEROKU CLI COMMANDS
 
-`* git clone https://github.com/CyniteOfficial/Uploader-Bot`
+`* git clone https://github.com/Rajrohit000666/Uploader-Bot`
 
 `* heroku login`
 
@@ -62,7 +62,7 @@ heroku/python
 ## Credits, and Thanks to
 
 * [@SpEcHlDe](https://t.me/ThankTelegram) for his [AnyDLBot](https://telegram.dog/AnyDLBot)
-* [Dan Tès](https://t.me/haskell) for his [Pyrogram Library](https://github.com/pyrogram/pyrogram)
+* [Dan Tès](https://t.me/haskell) for his [Pyrogram Library](https://github.com/Rajrohit000666/Uploader-Bot)
 * [Yoily](https://t.me/YoilyL) for his [UploaditBot](https://telegram.dog/UploaditBot)
 * [@DC4_WARRIOR](https://t.me/Space_X_bots) it's me
 #### LICENSE
