@@ -3,8 +3,8 @@
   "description": "Telegram Bot to Upload URLs to Telegram as File and Video.",
   "keywords": [ "URL UPLOADER"],
   "success_url": "https://t.me/cyniteUploaderbot",
-  "website": "https://github.com/CyniteOfficial/Uploader-Bot",
-  "repository": "https://github.com/CyniteOfficial/Uploader-Bot",
+  "website": "https://github.com/Rajrohit000666/Uploader-Bot",
+  "repository": "https://github.com/Rajrohit000666/Uploader-Bot",
 
   "env": {
     "WEBHOOK": {"description": "Setting this to ANYTHING will enable webhooks when in env mode",
@@ -26,7 +26,7 @@
            "value": ""} },
 
   "addons": [ ],
-  "buildpacks": [ {"url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"},
+  "buildpacks": [ {"url": "https://github.com/Rajrohit000666/Uploader-Bot"},
                   {"url": "heroku/python" } ],
   "formation": {
      "worker": {
